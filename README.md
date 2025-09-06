@@ -1,5 +1,5 @@
-# Jeng <3 Mance
+# Javascript
 
-1. jeng
-2. mance
-3. kaite
+1. Download
+2. Install
+3. Configure
